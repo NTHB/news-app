@@ -7,9 +7,9 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3",
-    "typeface-roboto": "0.0.54",
-    "homepage": "http://nthb.github.io/news-app"
+    "typeface-roboto": "0.0.54"
   },
+  "homepage": "http://nthb.github.io/news-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
